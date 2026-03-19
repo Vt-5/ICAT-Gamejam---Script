@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://b1np2wy20rf00"]
+
+[ext_resource type="Script" uid="uid://w4po7ytot8rp" path="res://Scripts/Itens/dano.gd" id="1_otivm"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_pj8eu"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_h2xvq"]
+
+[node name="Dano" type="Area2D" unique_id=1831938943]
+script = ExtResource("1_otivm")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1072600557]
+sprite_frames = SubResource("SpriteFrames_pj8eu")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=419876584]
+shape = SubResource("RectangleShape2D_h2xvq")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

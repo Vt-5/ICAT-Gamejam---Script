@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://dgqa38ub3ojjo"]
+
+[ext_resource type="Script" uid="uid://eupgpwjth2x6" path="res://Scripts/Itens/objetivo.gd" id="1_ot1nc"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_vyip6"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qxbs4"]
+
+[node name="Objetivo" type="Area2D" unique_id=1273075250]
+script = ExtResource("1_ot1nc")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=21765470]
+sprite_frames = SubResource("SpriteFrames_vyip6")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1800709853]
+shape = SubResource("RectangleShape2D_qxbs4")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
