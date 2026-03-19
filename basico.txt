@@ -15,3 +15,5 @@ mecanicas: aperte E para ligar a lanterna
 aperte Q para correr
 aperte F para abrir o inventario
 aperte ENTER para selecionar ou interagir
+
+lore: Bethany acaba se perdendo na floresta, e encontra um laboratório na floresta. E ao entrar, ela sente uma sensação de estar sendo observada. Ao adentrar mais, ela vê uma pessoa caida no chão, sendo comida por um ser que parece um cachorro. Mas ele tinha uma cabeça redonda, pele palida, e sua cabeça se abre no meio.
