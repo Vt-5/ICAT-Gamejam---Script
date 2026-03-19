@@ -48,4 +48,10 @@ Projeto de jogo em Godot focado na estrutura base: cenas, scripts e organizaçã
 2. Importe a pasta do projeto.
 3. Execute a `Cenas/cena_principal.tscn`.
 
-Se quiser, posso detalhar o fluxo de gameplay atual, documentar inputs e adicionar um guia de contribuição.
+**Próximos Passos**
+1. Definir e documentar inputs no `project.godot`.
+2. Implementar loop básico de gameplay (coleta, pontuação, vitória/derrota).
+3. Expandir o mapa inicial e criar mais variações de TileSet.
+4. Criar inimigos base e padrões simples de IA.
+5. Adicionar UI mínima (vida, score, feedback de coleta).
+6. Preparar pipeline de exportação e builds de teste.
