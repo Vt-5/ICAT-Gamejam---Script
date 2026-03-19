@@ -9,10 +9,10 @@
 [node name="Player" type="CharacterBody2D" unique_id=1582652170]
 script = ExtResource("1_42usl")
 
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=976080714]
+[node name="Animacoes" type="AnimatedSprite2D" parent="." unique_id=976080714]
 sprite_frames = SubResource("SpriteFrames_6mjy2")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=103460082]
+[node name="Colisoes" type="CollisionShape2D" parent="." unique_id=103460082]
 shape = SubResource("RectangleShape2D_8x68b")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=630247672]

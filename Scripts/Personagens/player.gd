@@ -2,6 +2,7 @@ extends CharacterBody2D
 
 #@onready var projetil = preload() ##caminho da cena do projetil aq
 @onready var sprite: AnimatedSprite2D = $AnimatedSprite2D
+@onready var colisao = $Colisoes
 var animation_locked: bool = false
 var ataque: bool = false
 var pode_ataq: bool = true
