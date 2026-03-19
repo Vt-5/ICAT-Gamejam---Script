@@ -1,0 +1,17 @@
+plataforma simples singleplayer 
+
+Victor:script principal/ programação
+Miguel:Nivel, Historia, jogabilidade
+Victor Gabriel: Artes estáticas e cenário
+Chico: Arte de animação do personagem
+Guilherme Pereira: nivel/jogabilidade/Desafio de nivel EX: Boss, npcs e etc
+
+Temática de jogo:
+Laboratório
+
+Personagem principal:
+Uma criança com uma capa de chuva e uma lanterna na mão
+mecanicas: aperte E para ligar a lanterna
+aperte Q para correr
+aperte F para abrir o inventario
+aperte ENTER para selecionar ou interagir
