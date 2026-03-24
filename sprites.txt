@@ -1,0 +1,51 @@
+{sprites:}
+
+sobre o personagem:
+
+andar
+
+parado X
+
+tirar capuz X
+
+apertar
+
+andar agaxado
+
+dano
+
+morte
+
+usando itens
+
+mascara de frog
+
+deitada
+
+sentada
+
+engatinhando
+
+
+sobre os inimigos:
+
+andar A/B/C
+
+ataque A/B/C
+
+dano A/B/C
+
+morrer A/B/C
+
+
+sobre o boss:
+
+ataque A
+
+ataque B
+
+Dano
+
+morrer 
+
+intro
