@@ -4680,10 +4680,10 @@ se tornou inteiro.
 
 
 Fase 1: lembranças dos pais do personagem principal
-Fase 2/Cap.2 inicio das fases jogaveis
-Fase 3/cap.3 acaba de achar o laboratorio e está na primeira sala
-Fase 4/cap.4 já dentro do laboratorio em outra sala
-Fase 5/cap.5 dentro de outra sala com mais elementos e zombies e etc
-fase 6/cap.6 em outra sala + escura com animatronicos e etc
-fase 7/cap.7 a fase com o animatronico principal e outros fraquinhos
-fase 8/cap.8 a ultima sala do laboratorio, onde tem uma espécie de maquina que poderá juntar a alma da garota e do robô
+Fase 2/Cap.2 inicio das fases jogaveis ( precisa de uma chave/clip para passar para o nivel 3)
+Fase 3/cap.3 acaba de achar o laboratorio e está na primeira sala ( necessita eliminar uma gosma verde para ter acesso á segunda porta) 
+Fase 4/cap.4 já dentro do laboratorio em outra sala (vai descobrir mais sobre a história do robô, descobre mais coisas sobre seus pais)
+Fase 5/cap.5 dentro de outra sala com mais elementos e gosmas (coloridas) e etc (precisará de uma máscara de sapo para desbloquear um mecanismo robotico para avançar)
+fase 6/cap.6 em outra sala + escura com animatronicos e etc (o animatronico já é o robô que está conectado a alma da criança, mas ela ainda não sabe)
+fase 7/cap.7 a fase com o animatronico principal e outros fraquinhos (ela descobre que o robô está conectaddo á sua alma e tenta descobrir como desconectar ou se juntar ainda mais com o robô)
+fase 8/cap.8 a ultima sala do laboratorio, onde tem uma espécie de maquina que poderá juntar a alma da garota e do robô (a maquina estará atrás de uma porta bloqueada por mais gosmas (coloridas) só que estão mais fortes, e a personagem precisará da ajuda do robô, oque ajudará a conectar-se com o robô) 
