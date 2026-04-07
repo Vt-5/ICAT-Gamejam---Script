@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://dp7bmlr4bylt5"]
+
+[ext_resource type="Script" uid="uid://h7hoc8bt0vtp" path="res://Scripts/Mapas/mapa_4.gd" id="1_tphew"]
+
+[sub_resource type="TileSet" id="TileSet_tphew"]
+
+[node name="Mapa_4" type="TileMapLayer" unique_id=1643141921]
+tile_set = SubResource("TileSet_tphew")
+script = ExtResource("1_tphew")

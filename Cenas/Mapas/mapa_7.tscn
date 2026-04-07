@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://blunumopmxcs7"]
+
+[ext_resource type="Script" uid="uid://cmtid73cgobca" path="res://Scripts/Mapas/mapa_7.gd" id="1_5722s"]
+
+[node name="Mapa_7" type="TileMapLayer" unique_id=1365826780]
+script = ExtResource("1_5722s")
