@@ -1,12 +1,12 @@
 [gd_scene format=3 uid="uid://bvhxvp0gigqln"]
 
-[ext_resource type="Script" uid="uid://buajm5k85feg" path="res://Scripts/Personagens/player.gd" id="1_42usl"]
+[ext_resource type="Script" uid="uid://buajm5k85feg" path="res://Scripts/Personagens/bethany.gd" id="1_42usl"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_6mjy2"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_8x68b"]
 
-[node name="Player" type="CharacterBody2D" unique_id=1582652170]
+[node name="Bethany" type="CharacterBody2D" unique_id=1582652170]
 script = ExtResource("1_42usl")
 
 [node name="Animacoes" type="AnimatedSprite2D" parent="." unique_id=976080714]

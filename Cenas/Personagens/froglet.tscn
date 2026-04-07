@@ -1,0 +1,48 @@
+[gd_scene format=3 uid="uid://sqoqrljvnq27"]
+
+[ext_resource type="Script" uid="uid://coqhgvwama1wu" path="res://Scripts/Personagens/froglet.gd" id="1_e2vsd"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_mu7gi"]
+animations = [{
+"frames": [],
+"loop": true,
+"name": &"andar",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"ataque1",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"ataque2",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"gosma",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"hit",
+"speed": 5.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_68qfg"]
+
+[node name="Froglet" type="CharacterBody2D" unique_id=2045950023]
+script = ExtResource("1_e2vsd")
+
+[node name="Animacao" type="AnimatedSprite2D" parent="." unique_id=1495900474]
+sprite_frames = SubResource("SpriteFrames_mu7gi")
+animation = &"gosma"
+
+[node name="Colisao" type="CollisionShape2D" parent="." unique_id=697111916]
+shape = SubResource("RectangleShape2D_68qfg")
+
+[node name="Boss_visivel" type="VisibleOnScreenEnabler2D" parent="." unique_id=2024075471]
+
+[connection signal="screen_entered" from="Boss_visivel" to="." method="_on_boss_visivel_screen_entered"]
+[connection signal="screen_exited" from="Boss_visivel" to="." method="_on_boss_visivel_screen_exited"]
