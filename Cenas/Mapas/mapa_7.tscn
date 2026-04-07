@@ -2,5 +2,9 @@
 
 [ext_resource type="Script" uid="uid://cmtid73cgobca" path="res://Scripts/Mapas/mapa_7.gd" id="1_5722s"]
 
+[sub_resource type="TileSet" id="TileSet_f3ov1"]
+physics_layer_0/collision_layer = 1
+
 [node name="Mapa_7" type="TileMapLayer" unique_id=1365826780]
+tile_set = SubResource("TileSet_f3ov1")
 script = ExtResource("1_5722s")

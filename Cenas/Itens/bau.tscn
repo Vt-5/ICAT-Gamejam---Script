@@ -26,6 +26,28 @@
 [ext_resource type="Texture2D" uid="uid://ebc7dkog28jd" path="res://Artes/Itens/Bau 2/Layer 1_sprite_15.png" id="24_kvfhs"]
 [ext_resource type="Texture2D" uid="uid://chptuk4fpl1up" path="res://Artes/Itens/Bau 2/Layer 1_sprite_16.png" id="25_n0ue6"]
 [ext_resource type="Texture2D" uid="uid://ck3108nvxw7ll" path="res://Artes/Itens/Bau 2/Layer 1_sprite_17.png" id="26_h8e07"]
+[ext_resource type="Texture2D" uid="uid://dltc56ngutkpw" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_01.png" id="27_h25l3"]
+[ext_resource type="Texture2D" uid="uid://cpwoqomxojqnc" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_02.png" id="28_kvfhs"]
+[ext_resource type="Texture2D" uid="uid://bkvmiybgrc4et" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_03.png" id="29_n0ue6"]
+[ext_resource type="Texture2D" uid="uid://cekilmarmgiqv" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_04.png" id="30_h8e07"]
+[ext_resource type="Texture2D" uid="uid://dam44glkfcctx" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_05.png" id="31_g6s8d"]
+[ext_resource type="Texture2D" uid="uid://b3ya30dj2881j" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_06.png" id="32_3lb48"]
+[ext_resource type="Texture2D" uid="uid://cwn4rmquds5pe" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_07.png" id="33_4fo33"]
+[ext_resource type="Texture2D" uid="uid://b3bj3w711tqj3" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_08.png" id="34_rn4rk"]
+[ext_resource type="Texture2D" uid="uid://blrbv0uhotc1b" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_09.png" id="35_b5yrj"]
+[ext_resource type="Texture2D" uid="uid://djdq33va8dw35" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_10.png" id="36_6vm1b"]
+[ext_resource type="Texture2D" uid="uid://dmk3gnfavu10e" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_11.png" id="37_8h61l"]
+[ext_resource type="Texture2D" uid="uid://ijo8upqg5xe1" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_12.png" id="38_r6f4h"]
+[ext_resource type="Texture2D" uid="uid://k0yqdmj0i656" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_13.png" id="39_uuq8b"]
+[ext_resource type="Texture2D" uid="uid://cev2yc6m3rxb7" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_14.png" id="40_wxma7"]
+[ext_resource type="Texture2D" uid="uid://b3i6aycy2tgkh" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_15.png" id="41_jsihr"]
+[ext_resource type="Texture2D" uid="uid://cdrg3lpfi4jrq" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_16.png" id="42_wc5hh"]
+[ext_resource type="Texture2D" uid="uid://4uunlvfuruvu" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_17.png" id="43_g65gf"]
+[ext_resource type="Texture2D" uid="uid://csk6qij3lf6f1" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_18.png" id="44_0uhwe"]
+[ext_resource type="Texture2D" uid="uid://daej02o6joa3s" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_19.png" id="45_p1842"]
+[ext_resource type="Texture2D" uid="uid://cxt47cv555feq" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_20.png" id="46_twfg5"]
+[ext_resource type="Texture2D" uid="uid://dnw1iqgmfuj2t" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_21.png" id="47_vcu0c"]
+[ext_resource type="Texture2D" uid="uid://d2eyhofpndgrh" path="res://Artes/Itens/Bau_Cinza/Layer 1_sprite_22.png" id="48_42vig"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_g6s8d"]
 size = Vector2(318, 368)
@@ -148,6 +170,77 @@ animations = [{
 "loop": true,
 "name": &"Bau2",
 "speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("27_h25l3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_kvfhs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_n0ue6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_h8e07")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_g6s8d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_3lb48")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_4fo33")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_rn4rk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_b5yrj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_6vm1b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_8h61l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_r6f4h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_uuq8b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_wxma7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_jsihr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_wc5hh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_g65gf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_0uhwe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_p1842")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_twfg5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_vcu0c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_42vig")
+}],
+"loop": true,
+"name": &"Bau_cinza",
+"speed": 5.0
 }]
 
 [node name="Bau" type="Area2D" unique_id=750120286]
@@ -159,7 +252,7 @@ shape = SubResource("RectangleShape2D_g6s8d")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1472785720]
 sprite_frames = SubResource("SpriteFrames_wxma7")
-animation = &"Bau2"
-frame_progress = 0.19392172
+animation = &"Bau_cinza"
+frame_progress = 0.84078383
 
 [connection signal="body_entered" from="." to="." method="_on_body_entered"]
