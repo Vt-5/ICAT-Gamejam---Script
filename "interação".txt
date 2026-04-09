@@ -1,0 +1,16 @@
+#tentativa de scrit de interação
+
+#detecção (feita no global)
+func _on_teste_body_entered(body: Node2D) -> void:
+	if body is CharacterBody2D:
+		interact = true
+		print("interact")
+
+
+#parte do item (feita no global)
+func _process(_delta: float) -> void:
+		if interact:
+			if Input.is_action_just_pressed("interact"):
+				print("teste")
+				get_node("Moeda").queue_free()
+				interact = false
